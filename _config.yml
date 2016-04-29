@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Natalie Polen is a full stack web developer based in NYC.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.nataliepolen.com" # the base hostname & protocol for your site
-twitter_username: natalie_codes
+twitter_username: nataliepolen
 github_username:  nataliecodes
 
 # Build settings
